@@ -16,7 +16,7 @@ Other Tools: Git, GitHub, Postman, React Router, Socket.IO
 Additional: Authentication systems, File upload handling (Multer), MVC architecture, Toast notifications, Responsive design
 
 # 💫 About Me:
-👋 Hey there! I’m Nishi<br><br>💻 I’m a passionate Software Developer who loves turning ideas into interactive, user-friendly web experiences.<br>🌱 Currently exploring advanced MERN stack development, focusing on building scalable full-stack applications with clean architecture and smooth user experience.
+ I’m a passionate Software Developer who loves turning ideas into interactive, user-friendly web experiences.<br>🌱 Currently exploring advanced MERN stack development, focusing on building scalable full-stack applications with clean architecture and smooth user experience.
 
 
 ## 🌐 Socials:
